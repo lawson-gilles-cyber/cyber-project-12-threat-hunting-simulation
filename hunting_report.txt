@@ -1,0 +1,10 @@
+THREAT HUNTING REPORT
+
+Findings:
+- Suspicious admin login
+- Sensitive file access
+
+Risk Level: MEDIUM-HIGH
+
+Conclusion:
+Potential insider or compromised account activity.
